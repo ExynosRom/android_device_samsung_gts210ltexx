@@ -1,0 +1,2 @@
+add_lunch_combo aosp_gts210ltexx-eng
+add_lunch_combo aosp_gts210ltexx-userdebug

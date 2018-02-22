@@ -32,4 +32,4 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.gsm.xml:system/vendor/etc/permissions/android.hardware.telephony.gsm.xml
 
 # call the proprietary setup
-$(call inherit-product, vendor/samsung/gts210ltexx/gts28ltexx-vendor.mk)
+$(call inherit-product, vendor/samsung/gts210ltexx/gts210ltexx-vendor.mk)
